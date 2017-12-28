@@ -1,0 +1,87 @@
+<Deployment>
+<Properties>
+   <Property name="installLanguage">en_GB</Property>
+<Property name="INSTALLDIR">C:\Program Files\Adobe</Property></Properties>
+
+<Payloads>
+   
+   <Payload adobeCode="{DA1B174B-4297-467C-9EF8-0AB8D4D5171E}">
+      <Action>install</Action>
+   </Payload>
+
+   
+   <Payload adobeCode="{DE60F0DE-469A-42DC-A678-978313210057}">
+      <Action>install</Action>
+   </Payload>
+
+   
+   <Payload adobeCode="{C79312BD-3E76-4474-A10C-1435D1856A4B}">
+      <Action>install</Action>
+   </Payload>
+
+   
+   <Payload adobeCode="{A334FDED-DCCA-481E-B226-F902CCC419D2}">
+      <Action>install</Action>
+   </Payload>
+
+   
+   <Payload adobeCode="{164965E8-4BB0-4EEB-AFBA-75785A2A2A7F}">
+      <Action>install</Action>
+   </Payload>
+
+   
+   <Payload adobeCode="{CFC9F871-7C40-40B6-BE4A-B98A5B309716}">
+      <Action>install</Action>
+   </Payload>
+
+   
+   <Payload adobeCode="{177E1CA1-14CC-4398-AB15-A5746EFE8F22}">
+      <Action>install</Action>
+   </Payload>
+
+   
+   <Payload adobeCode="{E8815668-95B0-443D-AC92-2BFD7DD8F16A}">
+      <Action>install</Action>
+   </Payload>
+
+   
+   <Payload adobeCode="{9B97EC91-B3FD-4BFF-88FC-5345A26AC2E7}">
+      <Action>install</Action>
+   </Payload>
+
+   
+   <Payload adobeCode="{F9766AC1-1461-1033-B862-DF8FE1C033BE}">
+      <Action>install</Action>
+   </Payload>
+
+   
+   <Payload adobeCode="{288DB08D-0708-4A94-B055-55B99E39EB62}">
+      <Action>install</Action>
+   </Payload>
+
+   
+   <Payload adobeCode="{ABDC1F61-2C50-4BB1-ACDA-66D412D72582}">
+      <Action>install</Action>
+   </Payload>
+
+   
+   <Payload adobeCode="{7DFEBBA4-81E1-425B-BBAA-06E9E5BBD97E}">
+      <Action>install</Action>
+   </Payload>
+
+   
+   <Payload adobeCode="{667C8B6C-3EAF-4646-A8EC-D85CCC4D3D84}">
+      <Action>install</Action>
+   </Payload>
+
+   
+   <Payload adobeCode="{C21384F7-1A36-4706-95AB-B09BCE3C144F}">
+      <Action>install</Action>
+   </Payload>
+
+   
+   <Payload adobeCode="{CBE4F6C3-788E-4CAC-BA25-26FE39A3BC8C}">
+      <Action>install</Action>
+   </Payload>
+</Payloads>
+</Deployment>

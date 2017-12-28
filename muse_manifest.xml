@@ -1,0 +1,156 @@
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="daftpunk.html" resolutions="1x" timestamp="1480197053855">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="master_a-p_g_-maestra.css" crc="390924219" ref="index"/>
+    <file name="master_b-p_g_-maestra.css" crc="4154820121" ref="bio:merch:alive-07:daft-club:homework:concierto:greatest-hit:ram:tron:alive-97:discos:discovery"/>
+    <file name="bio.css" crc="4181261695" ref="bio"/>
+    <file name="index.css" crc="4287250283" ref="index"/>
+    <file name="merch.css" crc="17257641" ref="merch"/>
+    <file name="alive-07.css" crc="4270302135" ref="alive-07"/>
+    <file name="daft-club.css" crc="433849877" ref="daft-club"/>
+    <file name="homework.css" crc="389300362" ref="homework"/>
+    <file name="concierto.css" crc="4203890275" ref="concierto"/>
+    <file name="greatest-hit.css" crc="4072387623" ref="greatest-hit"/>
+    <file name="ram.css" crc="150368916" ref="ram"/>
+    <file name="tron.css" crc="4145673442" ref="tron"/>
+    <file name="alive-97.css" crc="4185604972" ref="alive-97"/>
+    <file name="discos.css" crc="4214726136" ref="discos"/>
+    <file name="discovery.css" crc="318304051" ref="discovery"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:concierto:discos:bio:merch:homework:alive-97:discovery:daft-club:alive-07:tron:greatest-hit:ram"/>
+    <file name="museutils.js" crc="3851988764" ref="index:concierto:discos:bio:merch:homework:alive-97:discovery:daft-club:alive-07:tron:greatest-hit:ram"/>
+    <file name="whatinput.js" crc="86476730" ref="index:concierto:discos:bio:merch:homework:alive-97:discovery:daft-club:alive-07:tron:greatest-hit:ram"/>
+    <file name="museconfig.js" crc="4242129463" ref="index:concierto:discos:bio:merch:homework:alive-97:discovery:daft-club:alive-07:tron:greatest-hit:ram"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index:concierto:discos:merch"/>
+    <file name="webpro.js" crc="4067903014" ref="index:concierto:discos:bio:merch:homework:alive-97:discovery:daft-club:alive-07:tron:greatest-hit:ram"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="index:discos:merch"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="index:discos:merch"/>
+    <file name="touchswipe.js" crc="474750357" ref="index:discos:merch"/>
+    <file name="form_check.php" crc="121412709" ref="index"/>
+    <file name="form_throttle.php" crc="4268640971" ref="index"/>
+    <file name="form_process.php" crc="444429785" ref="index"/>
+    <file name="form-u1719.php" crc="4233728615" ref="index"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:concierto:discos:bio:merch:homework:alive-97:discovery:daft-club:alive-07:tron:greatest-hit:ram"/>
+    <file name="require.js" crc="4108833657" ref="index:concierto:discos:bio:merch:homework:alive-97:discovery:daft-club:alive-07:tron:greatest-hit:ram"/>
+    <file name="form-u4317.php" crc="4011856235" ref="concierto"/>
+  </folder>
+  <folder name="images">
+    <file name="111111.jpg" crc="284569117" seo="true" ref="index:concierto:discos:bio:merch:homework:alive-97:discovery:daft-club:alive-07:tron:greatest-hit:ram"/>
+    <file name="home-home.png" crc="380364277" ref="index:concierto"/>
+    <file name="home.png" crc="100950905" ref="index:concierto"/>
+    <file name="bio-bio.png" crc="151300502" ref="index:concierto"/>
+    <file name="bio.png" crc="4017173489" ref="index:concierto"/>
+    <file name="disco-disco.png" crc="3815994958" ref="index:concierto"/>
+    <file name="disco.png" crc="499090035" ref="index:concierto"/>
+    <file name="concert-conciertos.png" crc="4253549849" ref="index:concierto"/>
+    <file name="concert.png" crc="4179959217" ref="index:concierto"/>
+    <file name="merch-merch.png" crc="3828400940" ref="index:concierto"/>
+    <file name="merch.png" crc="24962387" ref="index:concierto"/>
+    <file name="logoboton-capa 1.png" crc="3817716670" ref="index:concierto"/>
+    <file name="logoboton.png" crc="353653335" ref="index:concierto"/>
+    <file name="portada.jpg" crc="4019811415" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:discos:merch"/>
+    <file name="portadaaaaaa2.jpg" crc="3803723412" seo="true" ref="index"/>
+    <file name="verydisco.png" crc="121168736" seo="true" ref="index"/>
+    <file name="portada-2.jpg" crc="135482133" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:discos:merch"/>
+    <file name="foooooter.png" crc="476378067" seo="true" ref="index:concierto:discos:bio:merch:homework:alive-97:discovery:daft-club:alive-07:tron:greatest-hit:ram"/>
+    <file name="boton111-capa 0.jpg" crc="4073223488" ref="index:concierto"/>
+    <file name="boton111-capa 1.jpg" crc="207799082" ref="index:concierto"/>
+    <file name="boton333-fondo.jpg" crc="3889707991" ref="index:concierto"/>
+    <file name="boton333-capa 1.jpg" crc="159769101" ref="index:concierto"/>
+    <file name="boton222-capa 0.jpg" crc="4173956942" ref="index:concierto"/>
+    <file name="boton222.jpg" crc="232270339" ref="index:concierto"/>
+    <file name="u1720-17.png" crc="277087597" ref="index"/>
+    <file name="u1720-17-r.png" crc="4041478214" ref="index"/>
+    <file name="u1720-17-m.png" crc="4091828644" ref="index"/>
+    <file name="u1720-17-fs.png" crc="459211335" ref="index"/>
+    <file name="miniseparated.png" crc="3832362518" ref="index:concierto"/>
+    <file name="minibio-capa 4.png" crc="129745791" ref="index:concierto"/>
+    <file name="minibio.png" crc="325371123" ref="index:concierto"/>
+    <file name="minidisco-capa 5.png" crc="3826825645" ref="index:concierto"/>
+    <file name="minidisco.png" crc="3931421994" ref="index:concierto"/>
+    <file name="miniconcierto-capa 6.png" crc="864322" ref="index:concierto"/>
+    <file name="miniconcierto.png" crc="153866593" ref="index:concierto"/>
+    <file name="minihelp-capa 7.png" crc="3928882007" ref="index:concierto"/>
+    <file name="minihelp.png" crc="4169686545" ref="index:concierto"/>
+    <file name="minimerch-capa 8.png" crc="3813401566" ref="index:concierto"/>
+    <file name="minimerch.png" crc="4148944796" ref="index:concierto"/>
+    <file name="concierto.jpg" crc="4081950491" seo="true" ref="concierto"/>
+    <file name="verboletos.png" crc="3794130426" seo="true" ref="concierto"/>
+    <file name="boletos.jpg" crc="341290510" seo="true" ref="concierto"/>
+    <file name="textoextra.png" crc="491195704" seo="true" ref="concierto"/>
+    <file name="u4323-17.png" crc="277087597" ref="concierto:discos:bio:merch:homework:alive-97:discovery:daft-club:alive-07:tron:greatest-hit:ram"/>
+    <file name="u4323-17-r.png" crc="4041478214" ref="concierto:discos:bio:merch:homework:alive-97:discovery:daft-club:alive-07:tron:greatest-hit:ram"/>
+    <file name="u4323-17-m.png" crc="4091828644" ref="concierto:discos:bio:merch:homework:alive-97:discovery:daft-club:alive-07:tron:greatest-hit:ram"/>
+    <file name="u4323-17-fs.png" crc="459211335" ref="concierto:discos:bio:merch:homework:alive-97:discovery:daft-club:alive-07:tron:greatest-hit:ram"/>
+    <file name="555555555.jpg" crc="148265282" seo="true" ref="discos"/>
+    <file name="new stuff.png" crc="532696429" seo="true" ref="discos"/>
+    <file name="intersetll.jpg" crc="235824989" seo="true" ref="discos"/>
+    <file name="interestella1-1-crop-u3125.jpg" crc="3857902392" ref="discos"/>
+    <file name="5f0efa199e5cb0f09fc0d0548a4f6bb4-crop-u3152.jpg" crc="235719666" ref="discos"/>
+    <file name="discografia.jpg" crc="4054860172" seo="true" ref="discos"/>
+    <file name="daft1-capa 0.png" crc="273573133" seo="true" ref="discos"/>
+    <file name="daft2-capa 0.png" crc="439330667" seo="true" ref="discos"/>
+    <file name="daft3-capa 0 copia.png" crc="409959697" seo="true" ref="discos"/>
+    <file name="daft4-capa 0 copia.png" crc="4076641249" seo="true" ref="discos"/>
+    <file name="daft5-capa 0 copia.png" crc="4153556291" seo="true" ref="discos"/>
+    <file name="daft6-capa 0 copia.png" crc="3874468585" seo="true" ref="discos"/>
+    <file name="daft7-capa 0 copia.png" crc="4154359406" seo="true" ref="discos"/>
+    <file name="daft8-capa 0 copia.png" crc="3965898411" seo="true" ref="discos"/>
+    <file name="discoooos.jpg" crc="4024822491" seo="true" ref="discos"/>
+    <file name="discooooss.jpg" crc="4045855545" seo="true" ref="discos"/>
+    <file name="comprar-capa 0.jpg" crc="129613377" ref="discos:merch"/>
+    <file name="comprar-capa 1.jpg" crc="221646710" ref="discos:merch"/>
+    <file name="comprar.jpg" crc="221646710" ref="discos"/>
+    <file name="quienessomos.png" crc="171826214" seo="true" ref="bio"/>
+    <file name="welp.jpg" crc="4086828422" seo="true" ref="bio"/>
+    <file name="quienessomos2.png" crc="3913990188" seo="true" ref="bio"/>
+    <file name="welp2.jpg" crc="209244277" seo="true" ref="bio"/>
+    <file name="weasmas.png" crc="536275745" seo="true" ref="bio"/>
+    <file name="foto1.jpg" crc="364672320" seo="true" ref="merch"/>
+    <file name="rings-daft-punk-loqueva.jpg" crc="3949497937" seo="true" ref="merch"/>
+    <file name="bann_decollar.png" crc="152850771" seo="true" ref="merch"/>
+    <file name="pngpngpng.png" crc="410147094" seo="true" ref="merch"/>
+    <file name="correa.jpg" crc="4147194730" seo="true" ref="merch"/>
+    <file name="discoo.jpg" crc="4268126355" seo="true" ref="merch"/>
+    <file name="lego.jpg" crc="3950612441" seo="true" ref="merch"/>
+    <file name="poster.jpg" crc="3903972240" seo="true" ref="merch"/>
+    <file name="taza.jpg" crc="438920347" seo="true" ref="merch"/>
+    <file name="holly.jpg" crc="4220071881" seo="true" ref="merch"/>
+    <file name="gorro.jpg" crc="531040421" seo="true" ref="merch"/>
+    <file name="polo.jpg" crc="356215738" seo="true" ref="merch"/>
+    <file name="merch.jpg" crc="4224662926" seo="true" ref="merch"/>
+    <file name="submusica.jpg" crc="152149583" seo="true" ref="homework"/>
+    <file name="homeworld-songs.jpg" crc="323263736" seo="true" ref="homework"/>
+    <file name="aliiiiiiiiiiive222.jpg" crc="351799970" seo="true" ref="alive-97"/>
+    <file name="weaaaa_escrita.png" crc="460105431" seo="true" ref="alive-97"/>
+    <file name="discovery-songs.jpg" crc="300165479" seo="true" ref="discovery"/>
+    <file name="discovvvvvvvery.jpg" crc="169534885" seo="true" ref="discovery"/>
+    <file name="weaaaa_escrita2.png" crc="318010232" seo="true" ref="discovery"/>
+    <file name="cluuuuuuuuub.jpg" crc="287913564" seo="true" ref="daft-club"/>
+    <file name="weaaaa_escrita3.png" crc="273864009" seo="true" ref="daft-club"/>
+    <file name="aaaaaaalive07.jpg" crc="263946974" seo="true" ref="alive-07"/>
+    <file name="weaaaa_escrita8.png" crc="4280204420" seo="true" ref="alive-07"/>
+    <file name="troooooon.jpg" crc="4168558524" seo="true" ref="tron"/>
+    <file name="weaaaa_escrita9.png" crc="3930977931" seo="true" ref="tron"/>
+    <file name="greatesthits.png" crc="3966372350" seo="true" ref="greatest-hit"/>
+    <file name="rrrrrrrram.jpg" crc="288774494" seo="true" ref="greatest-hit"/>
+    <file name="ram.jpg" crc="4016673489" seo="true" ref="ram"/>
+    <file name="weaaaa_escrita10.png" crc="513726033" seo="true" ref="ram"/>
+  </folder>
+  <file name="index.html" crc="3838335503" seo="true" mt="1480189157219" redirect="true"/>
+  <file name="concierto.html" crc="126391166" seo="true" mt="1480196989763" redirect="true"/>
+  <file name="discos.html" crc="4248830094" seo="true" mt="1480189177899" redirect="true"/>
+  <file name="bio.html" crc="3935362730" seo="true" mt="1480189177899" redirect="true"/>
+  <file name="merch.html" crc="4017050230" seo="true" mt="1480189177899" redirect="true"/>
+  <file name="homework.html" crc="4104078960" seo="true" mt="1480189177899" redirect="true"/>
+  <file name="alive-97.html" crc="3865718447" seo="true" mt="1480189177899" redirect="true"/>
+  <file name="discovery.html" crc="109232720" seo="true" mt="1480189177899" redirect="true"/>
+  <file name="daft-club.html" crc="4129335970" seo="true" mt="1480189177899" redirect="true"/>
+  <file name="alive-07.html" crc="4183123801" seo="true" mt="1480189177899" redirect="true"/>
+  <file name="tron.html" crc="440794349" seo="true" mt="1480189177899" redirect="true"/>
+  <file name="greatest-hit.html" crc="4108198788" seo="true" mt="1480189177899" redirect="true"/>
+  <file name="ram.html" crc="3988800133" seo="true" mt="1480189177899" redirect="true"/>
+</manifest>
